@@ -10,3 +10,4 @@ resources, and knowledge shared freely on his [YouTube channel](https://www.yout
 1. [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io)
 2. [PyTorch for Deep Learning GitHub Repo](https://github.com/mrdbourke/pytorch-deep-learning?tab=readme-ov-file)
 3. [PyTorch Official Website](https://pytorch.org)
+4. [Matrix multiplication training](http://matrixmultiplication.xyz)
