@@ -11,3 +11,6 @@ resources, and knowledge shared freely on his [YouTube channel](https://www.yout
 2. [PyTorch for Deep Learning GitHub Repo](https://github.com/mrdbourke/pytorch-deep-learning?tab=readme-ov-file)
 3. [PyTorch Official Website](https://pytorch.org)
 4. [Matrix multiplication training](http://matrixmultiplication.xyz)
+5. [3Blue1Brown, Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+6. [Michael A. Nielsen, "Neural Networks and Deep Learning", Determination Press, 2015](http://neuralnetworksanddeeplearning.com/index.html)
+7. [Michael A. Nielsen, "Neural Networks and Deep Learning", GitHub Repo](https://github.com/mnielsen/neural-networks-and-deep-learning?tab=readme-ov-file)
